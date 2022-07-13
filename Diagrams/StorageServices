@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T11:50:36.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="g0WWptBXCBR8SeTem_Jb" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T12:17:49.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8kHAUIJhWoIWfmE8zWIs" version="20.0.4" type="github">
   <diagram id="6mGEGitVS6ynZpUE7EsZ" name="Page-1">
-    <mxGraphModel dx="2526" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2649" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z3cpzExAea0aZ306iIHb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Z3cpzExAea0aZ306iIHb-1" value="Local" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="Z3cpzExAea0aZ306iIHb-1" value="LocalStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="180" y="70" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3cpzExAea0aZ306iIHb-2" value="Cloud Backup" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="Z3cpzExAea0aZ306iIHb-2" value="PlayFabClientStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3cpzExAea0aZ306iIHb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3cpzExAea0aZ306iIHb-4" target="Z3cpzExAea0aZ306iIHb-2">
@@ -22,16 +22,16 @@
         <mxCell id="Z3cpzExAea0aZ306iIHb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3cpzExAea0aZ306iIHb-4" target="Z3cpzExAea0aZ306iIHb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z3cpzExAea0aZ306iIHb-4" value="Remote" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="Z3cpzExAea0aZ306iIHb-4" value="RemoteStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-280" y="270" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3cpzExAea0aZ306iIHb-5" value="Client" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Z3cpzExAea0aZ306iIHb-5" value="PlayFabClientStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3cpzExAea0aZ306iIHb-6" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="Z3cpzExAea0aZ306iIHb-6" value="PlayFabServerStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="180" y="390" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3cpzExAea0aZ306iIHb-10" value="Offline" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z3cpzExAea0aZ306iIHb-10" value="OfflineStorageService" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z3cpzExAea0aZ306iIHb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3cpzExAea0aZ306iIHb-11" target="Z3cpzExAea0aZ306iIHb-3">
