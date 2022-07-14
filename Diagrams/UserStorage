@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T17:14:14.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2DxqOHSaQbs7vsK8Pfn7" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T17:15:11.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UQmBtxH5STG239neObXi" version="20.1.1" type="github">
   <diagram id="cdY69mHCGq3fTnWC1ZdI" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -67,11 +67,17 @@
         <mxCell id="Ayit67SoiaPi43bKEhVp-10" value="Load Local" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="600" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ayit67SoiaPi43bKEhVp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ayit67SoiaPi43bKEhVp-15" target="Ayit67SoiaPi43bKEhVp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayit67SoiaPi43bKEhVp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ayit67SoiaPi43bKEhVp-15" target="Ayit67SoiaPi43bKEhVp-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ayit67SoiaPi43bKEhVp-15" value="Cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="720" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ayit67SoiaPi43bKEhVp-18" value="Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="530" width="140" height="180" as="geometry" />
+          <mxGeometry x="720" y="580" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Ayit67SoiaPi43bKEhVp-24" value="Catalog" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ayit67SoiaPi43bKEhVp-18">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -87,6 +93,12 @@
         </mxCell>
         <mxCell id="Ayit67SoiaPi43bKEhVp-21" value="Purchase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ayit67SoiaPi43bKEhVp-18">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayit67SoiaPi43bKEhVp-27" value="Save Remote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="870" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayit67SoiaPi43bKEhVp-29" value="Save Local" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
