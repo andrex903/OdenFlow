@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T17:14:04.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zgH4NF6E7Jza_odbl-lZ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T17:14:14.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2DxqOHSaQbs7vsK8Pfn7" version="20.1.1" type="github">
   <diagram id="cdY69mHCGq3fTnWC1ZdI" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="Ayit67SoiaPi43bKEhVp-5" value="Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ayit67SoiaPi43bKEhVp-6" value="RemoteLoad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="310" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ayit67SoiaPi43bKEhVp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ayit67SoiaPi43bKEhVp-7" target="Ayit67SoiaPi43bKEhVp-8">
           <mxGeometry relative="1" as="geometry" />
