@@ -1,27 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T12:54:20.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="z3sFLl7HCfnAkgBusqTg" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T14:07:42.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WNIxEV9RyW4-2hX9JIvp" version="20.2.2" type="github">
   <diagram id="lHOVxdTr7GsRNEltrlVH" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X3mBreBKf2D1UQWLz6C0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X3mBreBKf2D1UQWLz6C0-1" target="X3mBreBKf2D1UQWLz6C0-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X3mBreBKf2D1UQWLz6C0-1" value="LoadRemoteCatalog(Timeout)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="110" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X3mBreBKf2D1UQWLz6C0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X3mBreBKf2D1UQWLz6C0-2" target="X3mBreBKf2D1UQWLz6C0-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X3mBreBKf2D1UQWLz6C0-2" value="LoadLocalCatalog" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="210" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X3mBreBKf2D1UQWLz6C0-3" value="CompareVersions" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="310" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X3mBreBKf2D1UQWLz6C0-6" value="Create" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="420" width="200" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
