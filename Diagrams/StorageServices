@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T08:52:54.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8x30pDMzGyYoa3DnVJWI" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-06T08:57:35.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rCawBu1pTGjAykuhxq4r" version="20.2.3" type="github">
   <diagram id="6mGEGitVS6ynZpUE7EsZ" name="Page-1">
     <mxGraphModel dx="2842" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="Z3cpzExAea0aZ306iIHb-1" value="LocalStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="180" y="70" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3cpzExAea0aZ306iIHb-2" value="PlayFabClientStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="Z3cpzExAea0aZ306iIHb-2" value="PlayFabBackupStorageService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="180" y="150" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3cpzExAea0aZ306iIHb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z3cpzExAea0aZ306iIHb-4" target="Z3cpzExAea0aZ306iIHb-2" edge="1">
