@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T10:41:23.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JoQ-oUeCEx-B69QgIE2u" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T10:50:45.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nq07BZf-fUMtfBnCIsZz" version="20.3.6" type="github">
   <diagram id="X80R-e88-2r2JpZRt8Sj" name="Pagina-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -63,13 +63,13 @@
           <mxGeometry x="720" y="360" width="203" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-16" value="PlayerManager CmdLoad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="200" height="40" as="geometry" />
+          <mxGeometry x="160" y="480" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-17" value="Server Preload" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="200" height="40" as="geometry" />
+          <mxGeometry x="160" y="560" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-18" value="Client Preload" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="200" height="40" as="geometry" />
+          <mxGeometry x="160" y="640" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-19" value="Server Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="720" width="200" height="40" as="geometry" />
@@ -79,6 +79,24 @@
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-21" value="Client Change Scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZIcvIQYaK5ei1FpxZwB-22" value="Server Preload" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZIcvIQYaK5ei1FpxZwB-23" value="ClientPreload" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZIcvIQYaK5ei1FpxZwB-24" value="ClientPreload" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZIcvIQYaK5ei1FpxZwB-25" value="Server Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZIcvIQYaK5ei1FpxZwB-26" value="Server Change Scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZIcvIQYaK5ei1FpxZwB-27" value="Client Change Scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="880" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
