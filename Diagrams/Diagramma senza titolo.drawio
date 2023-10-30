@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T15:41:52.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FlsuKNERIo241_lWR0B-" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T22:30:12.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cexXdZP7wfJgaZ8cz_vI" version="22.0.8" type="github">
   <diagram name="Pagina-1" id="E0xMtBlN9NAYeZpKMJQF">
-    <mxGraphModel dx="1688" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,27 @@
         </mxCell>
         <mxCell id="q0RYgWVlS3sF2ayHj2EA-14" value="Potrei flaggare l&#39;abilità e quando la metto in barra eseguire del codice che cè sull&#39;instance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="360" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5mWOpyMaog_NobVpsDX-1" value="clicco e appena rilascio si ferma. Se consuma energia si interrompe quando finisce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="230" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5mWOpyMaog_NobVpsDX-2" value="clicco e dura un po&#39; di tempo/ esaurisce l&#39;energia. se riclicco si ferma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="320" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5mWOpyMaog_NobVpsDX-3" value="clicco e dura un pò di tempo/ esaurisce l&#39;energia. se riclicco si ferma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="420" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5mWOpyMaog_NobVpsDX-4" value="clicco si attiva clicco si disattiva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="510" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5mWOpyMaog_NobVpsDX-5" value="DEVO SEPARARE L&#39;ATTIVAZIONE DAL FATTO CHE SE MESSA IN BARRA SI ATTIVA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="610" width="620" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="c5mWOpyMaog_NobVpsDX-6" value="bar activation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="270" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c5mWOpyMaog_NobVpsDX-7" value="additional effects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="350" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
