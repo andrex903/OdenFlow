@@ -1,63 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T22:30:12.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cexXdZP7wfJgaZ8cz_vI" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T13:17:12.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g8GsF6ox7Q7eJNsMZfXE" version="22.1.0" type="github">
   <diagram name="Pagina-1" id="E0xMtBlN9NAYeZpKMJQF">
-    <mxGraphModel dx="2462" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2644" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q0RYgWVlS3sF2ayHj2EA-1" target="q0RYgWVlS3sF2ayHj2EA-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-1" value="Semplici: Clicco e fanno un effetto e poi si distruggono" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="200" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-2" value="Persistenti: Si creano quando vengono messe in barra e si distruggono quando le togli" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="280" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q0RYgWVlS3sF2ayHj2EA-3" target="q0RYgWVlS3sF2ayHj2EA-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-3" value="Toggle: Si attivano quando le clicci e rimangono attive per un tot di tempo o con altre condizioni" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="120" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q0RYgWVlS3sF2ayHj2EA-6" target="q0RYgWVlS3sF2ayHj2EA-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-6" value="Creare un sistema di UI che quando un abilità è attiva illumina il tasto" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="160" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-9" value="Modificare il nome aure, le aure sono qualcosa che si applicare su piu entità, forse il nome piu azzeccato per queste è abilità non staccabili. Forse potrei flaggare alcune abilità come non staccabili ed intervenire quando un certo effetto viene applicato all&#39;entità se cè gia l&#39;effetto di un altra abilità con lo stesso ID. le aure non ci sono perchè si usano i buff. devo modificare il sitema dei buff in modo che esistano i livelli e tenere in sospeso gli effetti di quelli di livello piu basso" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="440" width="520" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-10" value="Mi serve un sistema per cui posso fare delle cose quando metto in barra un abilità, senza castarla per forza. Tipo precaricare in memoria un asset" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="360" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-11" value="In generale piu ozioni grafiche, e mi serve segnalare al tasto i vari eventi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="240" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0RYgWVlS3sF2ayHj2EA-14" value="Potrei flaggare l&#39;abilità e quando la metto in barra eseguire del codice che cè sull&#39;instance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="360" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c5mWOpyMaog_NobVpsDX-1" value="clicco e appena rilascio si ferma. Se consuma energia si interrompe quando finisce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="230" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c5mWOpyMaog_NobVpsDX-2" value="clicco e dura un po&#39; di tempo/ esaurisce l&#39;energia. se riclicco si ferma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="320" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c5mWOpyMaog_NobVpsDX-3" value="clicco e dura un pò di tempo/ esaurisce l&#39;energia. se riclicco si ferma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="420" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c5mWOpyMaog_NobVpsDX-4" value="clicco si attiva clicco si disattiva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="510" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c5mWOpyMaog_NobVpsDX-5" value="DEVO SEPARARE L&#39;ATTIVAZIONE DAL FATTO CHE SE MESSA IN BARRA SI ATTIVA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="610" width="620" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="c5mWOpyMaog_NobVpsDX-6" value="bar activation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="270" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c5mWOpyMaog_NobVpsDX-7" value="additional effects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="350" width="260" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
