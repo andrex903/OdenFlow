@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T10:46:40.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="kYISKUZc3vB_RSCwMA1r" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T10:47:29.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="65A2RlYjs0VFq8ECoEa1" version="23.1.5" type="github">
   <diagram id="X80R-e88-2r2JpZRt8Sj" name="Pagina-1">
     <mxGraphModel dx="1688" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -8,18 +8,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-1" value="Dungeon Manager Load" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="480" y="80" width="200" height="40" as="geometry" />
+          <mxGeometry x="394" y="80" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3ZIcvIQYaK5ei1FpxZwB-2" target="3ZIcvIQYaK5ei1FpxZwB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-2" value="Scene Manager Load" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="160" width="200" height="40" as="geometry" />
+          <mxGeometry x="394" y="160" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3ZIcvIQYaK5ei1FpxZwB-3" target="3ZIcvIQYaK5ei1FpxZwB-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="349" y="260" />
+              <mxPoint x="263" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -31,7 +31,7 @@
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3ZIcvIQYaK5ei1FpxZwB-3" target="3ZIcvIQYaK5ei1FpxZwB-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="822" y="260" />
+              <mxPoint x="736" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,13 +41,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-3" value="Scene Loader Load" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="200" height="40" as="geometry" />
+          <mxGeometry x="394" y="240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3ZIcvIQYaK5ei1FpxZwB-6" target="3ZIcvIQYaK5ei1FpxZwB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="380" />
-              <mxPoint x="160" y="100" />
+              <mxPoint x="74" y="380" />
+              <mxPoint x="74" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,67 +57,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-6" value="Player Manager CmdLoad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="360" width="200" height="40" as="geometry" />
+          <mxGeometry x="154" y="360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-12" value="Send Scene Message" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="360" width="203" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-1" target="lNYEeknQksQEQcvAzPYO-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-9" value="Client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lNYEeknQksQEQcvAzPYO-5">
-          <mxGeometry x="-0.05" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-1" target="lNYEeknQksQEQcvAzPYO-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-8" value="Offline" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lNYEeknQksQEQcvAzPYO-6">
-          <mxGeometry x="-0.3285" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-1" target="lNYEeknQksQEQcvAzPYO-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-10" value="Server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lNYEeknQksQEQcvAzPYO-7">
-          <mxGeometry x="0.5062" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-1" value="Player Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="520" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-2" value="Dungeon Manager Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="680" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-3" value="CmdLoad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="680" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-4" value="Target Dungeon Manager Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="680" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-11" value="Dungeon Manager Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="760" width="200" height="40" as="geometry" />
+          <mxGeometry x="634" y="360" width="203" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="240" y="840" width="320" height="980" as="geometry" />
+          <mxGeometry x="960" y="39" width="320" height="980" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="560" y="840" width="320" height="980" as="geometry" />
+          <mxGeometry x="1280" y="39" width="320" height="980" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-15" target="lNYEeknQksQEQcvAzPYO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-15" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="890" width="200" height="40" as="geometry" />
+          <mxGeometry x="1020" y="89" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-16" target="lNYEeknQksQEQcvAzPYO-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-16" value="PlayerEntity.ValidateLoad()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="890" width="200" height="40" as="geometry" />
+          <mxGeometry x="1330" y="89" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-17" target="lNYEeknQksQEQcvAzPYO-18">
           <mxGeometry relative="1" as="geometry" />
@@ -126,19 +87,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-17" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="980" width="200" height="40" as="geometry" />
+          <mxGeometry x="1330" y="179" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-18" target="lNYEeknQksQEQcvAzPYO-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-18" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="980" width="200" height="40" as="geometry" />
+          <mxGeometry x="1020" y="179" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-20" target="lNYEeknQksQEQcvAzPYO-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-20" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1070" width="200" height="40" as="geometry" />
+          <mxGeometry x="1330" y="269" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-25" target="lNYEeknQksQEQcvAzPYO-27">
           <mxGeometry relative="1" as="geometry" />
@@ -152,32 +113,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-25" value="SceneManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1160" width="200" height="40" as="geometry" />
+          <mxGeometry x="1330" y="359" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-27" target="lNYEeknQksQEQcvAzPYO-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-27" value="NetworkManager.OnClientChangeScene()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1160" width="240" height="40" as="geometry" />
+          <mxGeometry x="990" y="359" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-28" target="lNYEeknQksQEQcvAzPYO-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-28" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1250" width="240" height="40" as="geometry" />
+          <mxGeometry x="1310" y="449" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-32" target="lNYEeknQksQEQcvAzPYO-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-32" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1530" width="240" height="40" as="geometry" />
+          <mxGeometry x="990" y="729" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-35" value="&lt;font color=&quot;#ff9999&quot;&gt;SceneManager.Load()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1070" width="200" height="40" as="geometry" />
+          <mxGeometry x="1020" y="269" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="1450" as="targetPoint" />
+            <mxPoint x="1110" y="649" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-41" value="SpawnMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lNYEeknQksQEQcvAzPYO-40">
@@ -186,22 +147,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-38" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1430" width="240" height="40" as="geometry" />
+          <mxGeometry x="1310" y="629" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-43" target="lNYEeknQksQEQcvAzPYO-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-43" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1340" width="240" height="40" as="geometry" />
+          <mxGeometry x="1310" y="539" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-46" target="lNYEeknQksQEQcvAzPYO-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-46" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1620" width="240" height="40" as="geometry" />
+          <mxGeometry x="990" y="819" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lNYEeknQksQEQcvAzPYO-47" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1710" width="240" height="40" as="geometry" />
+          <mxGeometry x="990" y="909" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
