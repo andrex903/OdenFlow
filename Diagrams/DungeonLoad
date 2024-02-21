@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T10:47:29.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="65A2RlYjs0VFq8ECoEa1" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T09:55:58.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="An4tDGzxsa1k-7pCeX3Q" version="23.1.5" type="github">
   <diagram id="X80R-e88-2r2JpZRt8Sj" name="Pagina-1">
-    <mxGraphModel dx="1688" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,107 +62,214 @@
         <mxCell id="3ZIcvIQYaK5ei1FpxZwB-12" value="Send Scene Message" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="634" y="360" width="203" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" y="39" width="320" height="980" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="920" y="480" width="320" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="39" width="320" height="980" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="480" width="320" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-15" target="lNYEeknQksQEQcvAzPYO-16">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNYEeknQksQEQcvAzPYO-15" target="lNYEeknQksQEQcvAzPYO-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-15" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="89" width="200" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-15" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="530" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-16" target="lNYEeknQksQEQcvAzPYO-17">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-16" target="lNYEeknQksQEQcvAzPYO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-16" value="PlayerEntity.ValidateLoad()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="89" width="200" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-16" value="PlayerEntity.ValidateLoad()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="530" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-17" target="lNYEeknQksQEQcvAzPYO-18">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNYEeknQksQEQcvAzPYO-17" target="lNYEeknQksQEQcvAzPYO-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-17" target="lNYEeknQksQEQcvAzPYO-20">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNYEeknQksQEQcvAzPYO-17" target="lNYEeknQksQEQcvAzPYO-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-17" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="179" width="200" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-17" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="620" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-18" target="lNYEeknQksQEQcvAzPYO-35">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-18" target="lNYEeknQksQEQcvAzPYO-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-18" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="179" width="200" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-18" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="620" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-20" target="lNYEeknQksQEQcvAzPYO-25">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-20" target="lNYEeknQksQEQcvAzPYO-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-20" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="269" width="200" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-20" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="710" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-25" target="lNYEeknQksQEQcvAzPYO-27">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNYEeknQksQEQcvAzPYO-25" target="lNYEeknQksQEQcvAzPYO-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-30" value="SceneMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lNYEeknQksQEQcvAzPYO-29">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-30" value="SceneMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lNYEeknQksQEQcvAzPYO-29" vertex="1" connectable="0">
           <mxGeometry x="0.1571" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-25" target="lNYEeknQksQEQcvAzPYO-28">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-25" target="lNYEeknQksQEQcvAzPYO-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-25" value="SceneManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="359" width="200" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-25" value="SceneManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="800" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-27" target="lNYEeknQksQEQcvAzPYO-32">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-27" target="lNYEeknQksQEQcvAzPYO-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-27" value="NetworkManager.OnClientChangeScene()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="359" width="240" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-27" value="NetworkManager.OnClientChangeScene()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="800" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-28" target="lNYEeknQksQEQcvAzPYO-43">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-28" target="lNYEeknQksQEQcvAzPYO-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-28" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="449" width="240" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-28" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="890" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-32" target="lNYEeknQksQEQcvAzPYO-46">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lNYEeknQksQEQcvAzPYO-32" target="lNYEeknQksQEQcvAzPYO-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-32" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="729" width="240" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-32" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1170" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-35" value="&lt;font color=&quot;#ff9999&quot;&gt;SceneManager.Load()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="269" width="200" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-35" value="&lt;font color=&quot;#ff9999&quot;&gt;SceneManager.Load()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="710" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-38">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="lNYEeknQksQEQcvAzPYO-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="649" as="targetPoint" />
+            <mxPoint x="1070" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-41" value="SpawnMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lNYEeknQksQEQcvAzPYO-40">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-41" value="SpawnMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lNYEeknQksQEQcvAzPYO-40" vertex="1" connectable="0">
           <mxGeometry x="-0.1591" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-38" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="629" width="240" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-38" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1070" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-43" target="lNYEeknQksQEQcvAzPYO-38">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-43" target="lNYEeknQksQEQcvAzPYO-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-43" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="539" width="240" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-43" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="980" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lNYEeknQksQEQcvAzPYO-46" target="lNYEeknQksQEQcvAzPYO-47">
+        <mxCell id="lNYEeknQksQEQcvAzPYO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lNYEeknQksQEQcvAzPYO-46" target="lNYEeknQksQEQcvAzPYO-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-46" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="819" width="240" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-46" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1260" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lNYEeknQksQEQcvAzPYO-47" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="909" width="240" height="40" as="geometry" />
+        <mxCell id="lNYEeknQksQEQcvAzPYO-47" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1350" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="156" y="478" width="320" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="476" y="478" width="320" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-4" target="1miAkP8trnR90gcVat-x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-4" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="528" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-6" target="1miAkP8trnR90gcVat-x-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-6" value="PlayerEntity.ValidateLoad()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="528" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-9" target="1miAkP8trnR90gcVat-x-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-9" value="PlayerEntity.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="618" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-11" target="1miAkP8trnR90gcVat-x-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-11" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="888" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-13" target="1miAkP8trnR90gcVat-x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-13" value="DungeonManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="708" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-17" target="1miAkP8trnR90gcVat-x-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-15" value="SceneMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1miAkP8trnR90gcVat-x-14">
+          <mxGeometry x="0.1571" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-17" target="1miAkP8trnR90gcVat-x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-17" value="SceneManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="798" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-19" target="1miAkP8trnR90gcVat-x-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-19" value="NetworkManager.OnClientChangeScene()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="798" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-21" target="1miAkP8trnR90gcVat-x-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-21" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="888" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-23" target="1miAkP8trnR90gcVat-x-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-23" value="DungeonManager.OnDungeonLoaded()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="1088" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-24" target="1miAkP8trnR90gcVat-x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-24" value="SceneManager.Load()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="987" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-27" target="1miAkP8trnR90gcVat-x-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406" y="1358" as="targetPoint" />
+            <mxPoint x="486" y="1108" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="486" y="1088" />
+              <mxPoint x="486" y="1358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-26" value="SpawnMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1miAkP8trnR90gcVat-x-25">
+          <mxGeometry x="-0.1591" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-27" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="1068" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-29" target="1miAkP8trnR90gcVat-x-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-29" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="978" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1miAkP8trnR90gcVat-x-31" target="1miAkP8trnR90gcVat-x-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-31" value="DungeonInstance.RegisterProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="1176" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1miAkP8trnR90gcVat-x-32" value="DungeonInstance.SpawnProps()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="1338" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
